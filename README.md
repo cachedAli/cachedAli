@@ -22,4 +22,5 @@ I'm Ali! **full-stack developer** specializing in the **MERN stack**. I enjoy bu
 
 ## 📫 Get in Touch
 
-- **💼**: [Linkedin](www.linkedin.com/in/notali)
+- **💼**: [LinkedIn](https://www.linkedin.com/in/notali)
+
