@@ -1,3 +1,7 @@
+# Hey there 👋
+
+---
+
 ## 👩‍💻 About Myself 
 
 I'm Ali! **full-stack developer** specializing in the **MERN stack**. I enjoy building web applications that are both visually appealing and highly functional. Here to keep growing, learning, and collaborating with like-minded developers.
