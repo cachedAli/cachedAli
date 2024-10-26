@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👩‍💻 About Myself 
 
-<!--
-**not-aLi/not-aLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ali! **full-stack developer** specializing in the **MERN stack**. I enjoy building web applications that are both visually appealing and highly functional. Here to keep growing, learning, and collaborating with like-minded developers.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, Tailwind CSS  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB  
+- **Tools & Libraries**: Git, Postman, RESTful APIs, npm, Framer Motion  
+
+### 🌟 What I Do
+
+- **Craft Responsive UIs**: Building sleek interfaces with React and Tailwind CSS  
+- **Create Powerful APIs**: Developing RESTful APIs in Node.js and Express  
+- **Manage Data**: Leveraging MongoDB to handle and structure data efficiently  
+
+### 📫 Get in Touch
+
+- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- **Portfolio**: [Your Portfolio](https://your-portfolio-link.com)
