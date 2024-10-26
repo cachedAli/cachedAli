@@ -22,6 +22,4 @@ I'm Ali! **full-stack developer** specializing in the **MERN stack**. I enjoy bu
 
 ## 📫 Get in Touch
 
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- **Portfolio**: [Your Portfolio](https://your-portfolio-link.com)
+- **💼**: [Linkedin](www.linkedin.com/in/notali)
