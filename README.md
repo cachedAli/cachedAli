@@ -7,7 +7,7 @@ I'm Ali! **full-stack developer** specializing in the **MERN stack**. I enjoy bu
 
 ## 🚀 Tech Stack
 
-- **Frontend**: React, Tailwind CSS  
+- **Frontend**: React, Tailwind CSS, Typescript  
 - **Backend**: Node.js, Express  
 - **Database**: MongoDB  
 - **Tools & Libraries**: Git, Postman, RESTful APIs, npm, Framer Motion  
