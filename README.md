@@ -23,4 +23,4 @@ I'm Ali! **full-stack developer** specializing in the **MERN stack**. I enjoy bu
 ## 📫 Get in Touch
 
 - **💼**: [LinkedIn](https://www.linkedin.com/in/notali)  
-- **🌐**: [Portfolio](https://portfolio-mu-gold-71.vercel.app/)
+- **🌐**: [Portfolio](https://mohammad-ali-portfolio-ex9zcnnzr.vercel.app/)
