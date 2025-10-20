@@ -22,20 +22,7 @@ I'm Mohammad Ali! **full-stack developer** specializing in the **MERN stack**. I
 
 ## GitHub Stats
 
-<table>
-<tr>
-<td>
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cachedAli&show_icons=true&hide_title=true&theme=dark)
-
-</td>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cachedAli&layout=compact&theme=dark)
-
-</td>
-</tr>
-</table>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cachedAli&show_icons=true&hide_title=true&theme=dark&icon_color=ffcc00&text_color=ffffff&bg_color=0d1117)
 
 
 ## Get in Touch
