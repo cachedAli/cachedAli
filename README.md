@@ -2,7 +2,7 @@
 
 ## About Myself 
 
-I'm Mohammad Ali (cachedAli)! **full-stack developer** specializing in the **MERN stack**. I enjoy building web applications that are both visually appealing and highly functional. Here to keep growing, learning, and collaborating with like-minded developers.
+I'm Mohammad Ali! **full-stack developer** specializing in the **MERN stack**. I enjoy building web applications that are both visually appealing and highly functional. Here to keep growing, learning, and collaborating with like-minded developers.
 
 
 ## Tech Stack
@@ -20,7 +20,15 @@ I'm Mohammad Ali (cachedAli)! **full-stack developer** specializing in the **MER
 - **Manage Data**: Leveraging MongoDB to handle and structure data efficiently  
 
 
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cachedAli&show_icons=true&hide_title=true)
+
+
 ## Get in Touch
 
-- **💼**: [LinkedIn](https://www.linkedin.com/in/cachedAli)  
-- **🌐**: [Portfolio](https://cachedali.vercel.app/)
+- **LinkedIn:** [Mohammad Ali](https://www.linkedin.com/in/cachedAli)
+- **Portfolio:** [cachedali.vercel.app](https://cachedali.vercel.app/)
+
+<!-- Keywords for GitHub search: Mohammad Ali, cachedAli, MERN Stack, Next.js, React, Tailwind CSS, Node.js, MongoDB, PostgreSQL -->
+
