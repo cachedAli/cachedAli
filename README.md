@@ -17,18 +17,31 @@ I'm Mohammad Ali! **full-stack developer** specializing in the **MERN stack**. I
 
 - **Craft Responsive UIs**: Building sleek interfaces with React and Tailwind CSS  
 - **Create Powerful APIs**: Developing RESTful APIs in Node.js and Express  
-- **Manage Data**: Leveraging MongoDB to handle and structure data efficiently  
-
+- **Manage Data**: Leveraging MongoDB to handle and structure data efficiently
+  
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cachedAli&show_icons=true&hide_title=true)
+<table>
+<tr>
+<td>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cachedAli&show_icons=true&hide_title=true&theme=dark)
+
+</td>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cachedAli&layout=compact&theme=dark)
+
+</td>
+</tr>
+</table>
 
 
 ## Get in Touch
 
-- **LinkedIn:** [Mohammad Ali](https://www.linkedin.com/in/cachedAli)
-- **Portfolio:** [cachedali.vercel.app](https://cachedali.vercel.app/)
+- 💼 **LinkedIn:** [CachedAli](https://www.linkedin.com/in/cachedali)
+- 🌐 **Portfolio:** [CachedAli](https://cachedali.vercel.app/)
 
 <!-- Keywords for GitHub search: Mohammad Ali, cachedAli, MERN Stack, Next.js, React, Tailwind CSS, Node.js, MongoDB, PostgreSQL -->
 
